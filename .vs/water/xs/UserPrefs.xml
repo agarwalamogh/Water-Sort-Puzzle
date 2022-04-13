@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{CED25F9A-FC90-7FDF-D24A-530EBBDF9FAD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AdsManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Holder.cs" Line="78" Column="52" />
+      <File FileName="Assets/Scripts/GameSettings.cs" Line="114" Column="28" />
+      <File FileName="Assets/Scripts/AdsManager.cs" Line="109" Column="54" />
+      <File FileName="Assets/Scripts/GamePlayPanel.cs" Line="45" Column="41" />
+      <File FileName="Assets/Scripts/LevelCompletePanel.cs" Line="27" Column="38" />
+      <File FileName="Assets/Scripts/PausePanel.cs" Line="78" Column="38" />
+      <File FileName="Assets/Scripts/ResourceManager.cs" Line="73" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e843bb9e-c6d5-4df5-9e16-5246ada117c4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
